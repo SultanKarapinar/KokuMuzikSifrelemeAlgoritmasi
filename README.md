@@ -106,7 +106,10 @@ NumPy ile matematiksel sinüs dalgaları oluşturulur ve Pygame aracılığıyla
 Bu yapı sayesinde her molekül, kendine özgü bir akustik imza üretir.
 
 ---
-
+## 📷 Uygulama Arayüzü
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/30b1d83c-36b1-40e5-907d-a4dbd592f207" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e36ea884-95b6-482e-9e99-5a953f3c7572" />
+---
 ## 🛠️ Teknik Gereksinimler
 
 Projeyi çalıştırmak için aşağıdaki kütüphaneler gereklidir:
@@ -123,9 +126,7 @@ python sifreleme_algoritmasi.py komutuyla uygulamayı başlatın.
 
 Mesajınızı girip ŞİFRELE deyin ve DİNLET butonuyla mesajınızın melodisini keşfedin!
 ---
-## 📷 Uygulama Arayüzü
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/30b1d83c-36b1-40e5-907d-a4dbd592f207" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e36ea884-95b6-482e-9e99-5a953f3c7572" />
+
 
 
 
