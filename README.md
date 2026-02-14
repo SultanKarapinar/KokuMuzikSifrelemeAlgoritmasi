@@ -1,6 +1,6 @@
 # 🌿🎵 Scent-Music Molecular Cryptography (SMMK)
 
-Doğanın kimyasal yapısını ve müziğin akustik boyutunu birleştiren, çok katmanlı özgün bir şifreleme algoritması.
+Doğanın kimyasal yapısını ve müziğin akustik boyutunu birleştiren, çok katmanlı özgün bir şifreleme algoritması
 
 ---
 
