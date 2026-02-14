@@ -107,8 +107,10 @@ Bu yapı sayesinde her molekül, kendine özgü bir akustik imza üretir.
 
 ---
 ## 📷 Uygulama Arayüzü
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/30b1d83c-36b1-40e5-907d-a4dbd592f207" />
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/e36ea884-95b6-482e-9e99-5a953f3c7572" />
+<img width="999" height="651" alt="image" src="https://github.com/user-attachments/assets/36357ba6-d5fe-464f-bec2-13cbf2ac523e" />
+<img width="995" height="647" alt="image" src="https://github.com/user-attachments/assets/ddd43bc2-231d-43b7-99f7-c44800eca071" />
+
+
 ---
 ## 🛠️ Teknik Gereksinimler
 
