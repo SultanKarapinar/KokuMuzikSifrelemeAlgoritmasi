@@ -1,0 +1,25 @@
+```text
+Scent-Music Molecular Cryptography (SMMK)
+Copyright (c) 2026 Sultan Karapınar
+
+Tüm hakları saklıdır.
+
+Bu yazılımın algoritmik tasarımı, kavramsal mimarisi ve uygulama kurgusu
+Sultan Karapınar'a aittir.
+
+Bu proje, 5th International Conference on Recent Academic Studies (ICRAS 2025)
+kapsamında sunulmuş akademik bir çalışmaya dayanmaktadır.
+
+İzin verilmedikçe:
+
+- Ticari kullanım
+- Algoritmanın yeniden dağıtımı
+- Türev çalışma üretimi
+- Akademik atıf yapılmadan kullanım
+
+yasaktır.
+
+Akademik atıf yapılması koşuluyla inceleme ve araştırma amacıyla
+kullanılabilir.
+
+
